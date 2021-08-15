@@ -1,0 +1,16 @@
+Scalefocus
+ACADEMY
+
+In number theory, a perfect number is a positive integer
+
+that is equal to the sum of its positive divisors. By this rule,
+
+six is the smallest perfect number.
+
+If you scratched your head and said, "Huh?," here's an
+
+Example to clarify:
+
+1 + 2 + 3 = 6
+
+Write a program to find the first 5/10/15 perfect numbers.
